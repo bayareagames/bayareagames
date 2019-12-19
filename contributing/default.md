@@ -10,7 +10,7 @@ This site is intended to be developed by the community itself, and the more voic
 
 ## How to Contribute
 
-The contents of the site are hosted on [github](https://github.com/AngeloYazar/bayareagames), and is formatted using [Markdown](https://learn.getgrav.org/16/content/markdown).
+The contents of the site are hosted on [github](https://github.com/bayareagames/bayareagames), and is formatted using [Markdown](https://learn.getgrav.org/16/content/markdown).
 This makes it easy for anyone to make changes to the site while having every change tracked, reviewed and approved by moderators.
 
 You don't need to master git to edit this site, GitHub makes it easy to make changes directly on their site.
