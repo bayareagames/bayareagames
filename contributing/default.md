@@ -30,6 +30,9 @@ The steps to suggest a change are as follows:
 - When you're done, at the bottom of the page describe your changes in the 'Commit changes' area and click the 'Propose file change' button
 ![](03_commit.png)
 
+- If you see the 'Comparing changes' screen, click 'Create pull request'
+![](04.1_compare_files_create_pull_request.png)
+
 - On the next screen describe the motivation for your change if applicable, and hit the 'Create pull request' button
 ![](04_pull_request.png)
 
