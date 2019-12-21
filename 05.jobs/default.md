@@ -2,11 +2,27 @@
 title: Jobs
 ---
 
-## Find some work here
+## Find some work or collaborators here in the Bay Area!
 
-- Local job postings
-- Freelancing websites
-- Collaboration worksheet
-- Third party game jobs doc
+* Local job postings, links are for bay area searches:
+  * [On Google](https://www.google.com/search?q=game+jobs+san+francisco+bay+area&ibp=htl;jobs&fpstate=tldetail)
+  * [Indeed](https://www.indeed.com/q-Video-Game-l-San-Francisco-Bay-Area,-CA-jobs.html)
+  * [Game Job Hunter](https://gamejobhunter.com/local-video-game-companies-san-francisco-bay-area/)
+  * [Games Jobs Direct](https://www.gamesjobsdirect.com/results?mt=1&ic=False&l=Oakland&lid=5378538&lat=37.80437&lon=-122.2708&r=100&age=0&sper=4)
+  * [Game Dev Jobs .io](https://gamedevjobs.io/location/san-francisco-ca-usa/50/)
+  * [Gamasutra](https://jobs.gamasutra.com/index.php?action=advanced_search&page=search&keywords=&city=San+Francisco&state%5B%5D=California&country=United+States&zip_radius=100&zip=&position_type=&min_salary=&max_salary=&salary_type=)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vestibulum vestibulum elit sed vehicula. Aliquam scelerisque augue ut nulla viverra ultricies. In vel velit feugiat, volutpat mi eu, scelerisque nisl. Mauris non ante imperdiet, tristique nisl non, facilisis nibh. Suspendisse potenti. Cras at lacus nec ipsum egestas tempus. Ut at lectus gravida, viverra diam sed, aliquet tortor. Cras augue nibh, commodo sit amet consequat placerat, tristique ac sapien. Nulla venenatis, nibh sed placerat laoreet, sapien diam malesuada ante, ac venenatis massa sapien nec lorem. Nam eu volutpat ante.
+* [#GameDevJobs](https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/preview) google doc
+  * Amazing google doc maintained by [@SimplyUndrea](https://twitter.com/simplyundrea) and [@MitchyD](https://twitter.com/MitchyD).
+  * [Map of game companies in the Bay Area](https://gamecompanies.com/map?near=37.656736,-122.112892,9z)
+
+* [Animation/VFX/Game Industry Job Postings](https://docs.google.com/spreadsheets/d/1eR2oAXOuflr8CZeGoz3JTrsgNj3KuefbdXJOmNtjEVM/edit#gid=0)
+  * A very impressive jobs spreadsheet, applying filters will help you find bay area posts.
+
+* [Bay Area Indie Game Collaboration Sheet](https://docs.google.com/spreadsheets/d/1kduS2LGClggs9v3NfjI2G7_oVEAhyuat9-zABJx_fp0/edit#gid=0)
+  * An informal collaboration spreadsheet for people who just want to work together, pay might not be involved...
+
+* Freelancing websites
+  * [Upwork](https://www.upwork.com/search/jobs/?q=game&sort=relevance%2Bdesc)
+  * [Freelancer](https://www.freelancer.com/)
+  
