@@ -7,10 +7,9 @@ title: Jobs
 * Local job postings, links are for bay area searches:
   * [On Google](https://www.google.com/search?q=game+jobs+san+francisco+bay+area&ibp=htl;jobs&fpstate=tldetail)
   * [Indeed](https://www.indeed.com/q-Video-Game-l-San-Francisco-Bay-Area,-CA-jobs.html)
-  * [Game Job Hunter](https://gamejobhunter.com/local-video-game-companies-san-francisco-bay-area/)
   * [Games Jobs Direct](https://www.gamesjobsdirect.com/results?mt=1&ic=False&l=Oakland&lid=5378538&lat=37.80437&lon=-122.2708&r=100&age=0&sper=4)
   * [Game Dev Jobs .io](https://gamedevjobs.io/location/san-francisco-ca-usa/50/)
-  * [Gamasutra](https://jobs.gamasutra.com/index.php?action=advanced_search&page=search&keywords=&city_state_zip=San+Francisco%2C+California&submit=Find+jobs)
+  * [Game Job Hunter](https://gamejobhunter.com/local-video-game-companies-san-francisco-bay-area/)
 
 * [#GameDevJobs](https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/preview) google doc
   * Amazing google doc maintained by [@SimplyUndrea](https://twitter.com/simplyundrea) and [@MitchyD](https://twitter.com/MitchyD).
