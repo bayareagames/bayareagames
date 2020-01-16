@@ -28,6 +28,9 @@ Game Jams are a great way to get experience and learn from others, find some her
 - [Blender Basics](https://cgcookie.com/lesson/welcome-to-the-blender-basics)
 - [Blender Tutorials](https://cgcookie.com/categories/3d/tutorials)
 
+### Game Design
+- [Stone Librande's Game Design Fundamentals course syllabus](http://stonetronix.com/gamedesign/)
+
 ### Other Resource Collections
 - [38 Great Resources for Game Developers by Jasmine Greene](https://www.gamasutra.com/blogs/JasmineGreene/20170926/306446/38_Great_Resources_for_Game_Developers.php)
 - [21 Free Learning Resources for Game Developers by Nathan Lovato](https://www.gamasutra.com/blogs/NathanLovato/20150814/251219/21_Free_Learning_Resources_for_Game_Developers.php)
