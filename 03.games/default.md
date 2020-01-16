@@ -18,10 +18,9 @@ content:
 ---
 
 ## Games made in the Bay
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vestibulum vestibulum elit sed vehicula. Aliquam scelerisque augue ut nulla viverra ultricies. In vel velit feugiat, volutpat mi eu, scelerisque nisl. Mauris non ante imperdiet, tristique nisl non, facilisis nibh. Suspendisse potenti. Cras at lacus nec ipsum egestas tempus. Ut at lectus gravida, viverra diam sed, aliquet tortor. Cras augue nibh, commodo sit amet consequat placerat, tristique ac sapien. Nulla venenatis, nibh sed placerat laoreet, sapien diam malesuada ante, ac venenatis massa sapien nec lorem. Nam eu volutpat ante.
+This is still very much a work in progress, the goal is to collect and highlight games made locally.
+I will make an attempt with this, (still empty) [Steam curator](https://store.steampowered.com/curator/36601108/) page.
 
-### Local Devs
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vestibulum vestibulum elit sed vehicula. Aliquam scelerisque augue ut nulla viverra ultricies. In vel velit feugiat, volutpat mi eu, scelerisque nisl. Mauris non ante imperdiet, tristique nisl non, facilisis nibh. Suspendisse potenti. Cras at lacus nec ipsum egestas tempus. Ut at lectus gravida, viverra diam sed, aliquet tortor. Cras augue nibh, commodo sit amet consequat placerat, tristique ac sapien. Nulla venenatis, nibh sed placerat laoreet, sapien diam malesuada ante, ac venenatis massa sapien nec lorem. Nam eu volutpat ante.
+And maybe a google spreadsheet & itch.io collection.
 
-### External links
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vestibulum vestibulum elit sed vehicula. Aliquam scelerisque augue ut nulla viverra ultricies. In vel velit feugiat, volutpat mi eu, scelerisque nisl. Mauris non ante imperdiet, tristique nisl non, facilisis nibh. Suspendisse potenti. Cras at lacus nec ipsum egestas tempus. Ut at lectus gravida, viverra diam sed, aliquet tortor. Cras augue nibh, commodo sit amet consequat placerat, tristique ac sapien. Nulla venenatis, nibh sed placerat laoreet, sapien diam malesuada ante, ac venenatis massa sapien nec lorem. Nam eu volutpat ante.
+Find us on [Discord](https://discord.gg/tyVV4Wa) if you have ideas!
