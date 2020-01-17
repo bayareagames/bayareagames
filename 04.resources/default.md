@@ -6,9 +6,13 @@ title: Resources
 If you're just getting into making games, it's like most crafts: start small, keep practicing & embrace failures. You can start making games today using everyday objects as pieces.
 
 ### Videos
-There's a ton of good talks on game development available on the GDC's youtube channel.
-[Game Developers Conference Youtube channel](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
+- [Game Developers Conference Youtube channel](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ) (tons of good talks on game development)
 - [Game Maker’s Toolkit](https://www.youtube.com/user/McBacon1337/)
+
+### Podcasts
+- [Game Dev Club](http://www.devgameclub.com/)
+- [Game Maker's Notebook](https://www.interactive.org/Interviews/the_game_makers_notebook.asp)
+- [Imaginary Worlds](https://www.imaginaryworldspodcast.org/) (not explicitly about games, but a great game adjacent podcast)
 
 ### [Game Jams](https://en.wikipedia.org/wiki/Game_jam)
 Game Jams are a great way to get experience and learn from others, find some here:
