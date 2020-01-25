@@ -13,6 +13,8 @@ body_classes: title-h1h2
   * Monthly meetup group that meets in Campbell on the last monday of the month, chill chatting & demoing type environment.
 * [SF Game Development](https://www.meetup.com/Monthly-SF-Game-Development-Community)
   * This group hosts high-quality meetups focused on topics such as game marketing, development, and design.
+* [Oakland Game Devs & Creatives](https://www.meetup.com/OaklandGameDevs/)
+  * Oakland Game Devs & Creatives is a friendly Meetup in the East Bay for industry professionals, independent game developers, hobbyists, artists, musicians, designers, and those interested in breaking into video game development.
 
 ### Discord servers
 If you're looking to chat with other devs in the area *right now* you can find some of us on these servers:
