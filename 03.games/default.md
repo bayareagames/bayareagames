@@ -19,8 +19,10 @@ content:
 
 ## Games made in the Bay
 This is still very much a work in progress, the goal is to collect and highlight games made locally.
-I will make an attempt with this, (still empty) [Steam curator](https://store.steampowered.com/curator/36601108/) page.
+I will make an attempt with these: 
+- [Bay Area Games Steam curator page](https://store.steampowered.com/curator/36601108/)(still empty)
+- [Bay Area Games itch.io collection](https://itch.io/c/710382/bay-area-games)
 
-And maybe a google spreadsheet & itch.io collection.
+And maybe a google spreadsheet.
 
-Find us on [Discord](https://discord.gg/tyVV4Wa) if you have ideas!
+Find us on [Discord](https://discord.gg/tyVV4Wa) if you have ideas or want to join the curating group!
