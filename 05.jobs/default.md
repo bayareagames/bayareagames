@@ -20,6 +20,9 @@ title: Jobs
 
 * [Bay Area Indie Game Collaboration Sheet](https://docs.google.com/spreadsheets/d/1kduS2LGClggs9v3NfjI2G7_oVEAhyuat9-zABJx_fp0/edit#gid=0)
   * An informal collaboration spreadsheet for people who just want to work together, pay might not be involved...
+  
+* [Kreatorbus.com](https://kreatorbus.com/)
+  * Kreatorbus is a platform for finding collaborators for your projects that was created by a member of our very own local game dev community, [Ralph Wong](https://milpitians.com/).
 
 * Freelancing websites
   * [Upwork](https://www.upwork.com/search/jobs/?q=game&sort=relevance%2Bdesc)
