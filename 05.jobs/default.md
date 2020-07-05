@@ -2,7 +2,9 @@
 title: Jobs
 ---
 
-## Find some work or collaborators here in the Bay Area!
+## Jobs
+
+_Find some work or collaborators here in the Bay Area!_
 
 * Local job postings, links are for bay area searches:
   * [On Google](https://www.google.com/search?q=game+jobs+san+francisco+bay+area&ibp=htl;jobs&fpstate=tldetail)
