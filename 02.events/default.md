@@ -2,7 +2,7 @@
 title: Events
 ---
 
-### Events
+## Events
 Events have gone virtual! South Bay Game Dev meets the last monday of every month on discord, Oakland Game Devs has been hosting virtual meetups, Virtual World Arcade has been hosting meetups in VR and the Sacramento Developer Collective has been hosting monthly virtual jams.
 
 ### Local Meetup groups with virtual events
