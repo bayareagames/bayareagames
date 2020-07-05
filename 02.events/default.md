@@ -2,12 +2,10 @@
 title: Events
 ---
 
-### 2020 Events in the Bay
-- [Global Game Jam](https://globalgamejam.org/), 31 January - 02 February, 2020
-- [Game Developers Conference](https://www.gdconf.com/) March 16-20, 2020 | San Francisco, CA
-- Bay Area Game Jam 2020, June, our event! details TBD.
+### Events
+Events have gone virtual! South Bay Game Dev meets the last monday of every month on discord, Oakland Game Devs has been hosting virtual meetups, Virtual World Arcade has been hosting meetups in VR and the Sacramento Developer Collective has been hosting monthly virtual jams.
 
-### Local Meetup groups
+### Local Meetup groups with virtual events
 * [Indie Game Developers of Silicon Valley](https://www.meetup.com/Indie-Game-Developers-of-Silicon-Valley/)
   * Monthly meetup group for game devs of all skill levels. Events vary, testing nights, mini talks, chatting over tea, etc.
 * [South Bay Game Dev](https://www.meetup.com/southbaygamedev/)
@@ -16,4 +14,7 @@ title: Events
   * This group hosts high-quality meetups focused on topics such as game marketing, development, and design.
 * [Oakland Game Devs & Creatives](https://www.meetup.com/OaklandGameDevs/)
   * Oakland Game Devs & Creatives is a friendly Meetup in the East Bay for industry professionals, independent game developers, hobbyists, artists, musicians, designers, and those interested in breaking into video game development.
-  
+* [Virtual World Arcade](https://www.meetup.com/Virtual-World-Arcade/)
+  * Ever wanted to live a video game experience? Now you can! Enter the Virtual World and play VR games with your friends at Virtual World Arcade!
+* [Sacramento Developer Collective](https://www.meetup.com/gamedeveloper/)
+  * The purpose of this collective is simple: To create opportunity for developers & designers, both aspiring & veteran, to connect & empower one another within our up & coming Sacramento game industry!
