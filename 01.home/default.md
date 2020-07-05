@@ -15,7 +15,11 @@ body_classes: title-h1h2
   * This group hosts high-quality meetups focused on topics such as game marketing, development, and design.
 * [Oakland Game Devs & Creatives](https://www.meetup.com/OaklandGameDevs/)
   * Oakland Game Devs & Creatives is a friendly Meetup in the East Bay for industry professionals, independent game developers, hobbyists, artists, musicians, designers, and those interested in breaking into video game development.
-
+* [Virtual World Arcade](https://www.meetup.com/Virtual-World-Arcade/)
+  * Ever wanted to live a video game experience? Now you can! Enter the Virtual World and play VR games with your friends at Virtual World Arcade!
+* [Sacramento Developer Collective](https://www.meetup.com/gamedeveloper/)
+  * The purpose of this collective is simple: To create opportunity for developers & designers, both aspiring & veteran, to connect & empower one another within our up & coming Sacramento game industry!
+  
 ### Discord servers
 If you're looking to chat with other devs in the area *right now* you can find some of us on these servers:
 - [Silicon Valley Indie Game Developers](https://discord.gg/tyVV4Wa)
