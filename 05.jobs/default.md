@@ -13,6 +13,9 @@ _Find some work or collaborators here in the Bay Area!_
   * [Game Dev Jobs .io](https://gamedevjobs.io/location/san-francisco-ca-usa/50/)
   * [Game Job Hunter](https://gamejobhunter.com/local-video-game-companies-san-francisco-bay-area/)
 
+* [Work With Indies](https://www.workwithindies.com/)
+  * A single place to find all the cool jobs in indie games. Spans the globe, but inlcudes Bay Area & remote work
+
 * [#GameDevJobs](https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/preview) google doc
   * Amazing google doc maintained by [@SimplyUndrea](https://twitter.com/simplyundrea) and [@MitchyD](https://twitter.com/MitchyD).
   * [Map of game companies in the Bay Area](https://gamecompanies.com/map?near=37.656736,-122.112892,9z)
