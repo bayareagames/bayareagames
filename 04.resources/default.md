@@ -40,5 +40,6 @@ Game Jams are a great way to get experience and learn from others, find some her
 - [38 Great Resources for Game Developers by Jasmine Greene](https://www.gamasutra.com/blogs/JasmineGreene/20170926/306446/38_Great_Resources_for_Game_Developers.php)
 - [21 Free Learning Resources for Game Developers by Nathan Lovato](https://www.gamasutra.com/blogs/NathanLovato/20150814/251219/21_Free_Learning_Resources_for_Game_Developers.php)
 - [The Ultimate List of Free and Low-Cost Developer Tools and Resources by GameSparks](https://www.gamesparks.com/the-ultimate-list-of-free-and-low-cost-developer-tools-and-resources/)
+- [100+ No Code Resources trello board maintained by Mariam Hakobyan](https://trello.com/b/A4OmiAWb/100-no-code-resources)
 
 This page is incomplete! If you know something that can help someone learn about game development, please contribute!
