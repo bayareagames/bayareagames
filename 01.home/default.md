@@ -24,3 +24,4 @@ body_classes: title-h1h2
 If you're looking to chat with other devs in the area *right now* you can find some of us on these servers:
 - [Silicon Valley Indie Game Developers](https://discord.gg/tyVV4Wa)
 - [SF Game Development](https://discord.gg/QBjDJTb)
+- [BAD (Bay Area Devs) Collective](https://discord.gg/3AMBDJb)
