@@ -11,6 +11,7 @@ If you're just getting into making games, it's like most crafts: start small, ke
 - [Extra Credits: Making Your First Game](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5C6QC36h5eApOyXtx98ehGi)
 - [Extra Credits: Game Careers](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5DuIIh7p9FOaR6f-WTTzz_A)
 - [So You Wanna Make Games??](https://www.youtube.com/playlist?list=PL42m9XiTqPHJdJuVXO6Vf5ta5D07peiVx)  Intro to game art playlist from Riot, plus a video about game design at the end.
+- [Makin' Stuff Look Good In Video Games](https://www.youtube.com/c/DanMoranGameDev/)
 
 ### Podcasts
 - [Game Dev Club](http://www.devgameclub.com/)
@@ -45,6 +46,10 @@ Game Jams are a great way to get experience and learn from others, find some her
 - [Game Feel: A Game Designer’s Guide to Virtual Sensation.](http://www.game-feel.com/?page_id=2)
 - [Raph Koster's blog](https://www.raphkoster.com/), also his book [Theory of Fun for Game Design](https://www.amazon.com/gp/product/1449363210/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449363210&linkCode=as2&tag=atheoroffunfo-20)
 - [Tracy Fullerton's writing](https://www.tracyfullerton.com/writing)
+
+### Game Programming
+- [Red Blob Games](https://www.redblobgames.com/) high quality blog about game programming topics
+- [Catlike Coding > Unity](https://catlikecoding.com/unity/tutorials/) C# and Shader Tutorials for the Unity Engine
 
 ### Other Resource Collections
 - [38 Great Resources for Game Developers by Jasmine Greene](https://www.gamasutra.com/blogs/JasmineGreene/20170926/306446/38_Great_Resources_for_Game_Developers.php)
