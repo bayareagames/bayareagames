@@ -3,8 +3,8 @@ title: Home
 body_classes: title-h1h2
 ---
 
-# Bay Area Games
-> A friendly community developed resource for aspiring game developers and local game enthusiasts in the San Francisco Bay Area.
+## Bay Area Games
+A friendly community developed resource for aspiring game developers and local game enthusiasts in the San Francisco Bay Area.
 
 ### Local Meetup groups
 * [Indie Game Developers of Silicon Valley](https://www.meetup.com/Indie-Game-Developers-of-Silicon-Valley/)
