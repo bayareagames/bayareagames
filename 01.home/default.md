@@ -25,3 +25,4 @@ If you're looking to chat with other devs in the area *right now* you can find s
 - [Silicon Valley Indie Game Developers](https://discord.gg/tyVV4Wa)
 - [SF Game Development](https://discord.gg/QBjDJTb)
 - [BAD (Bay Area Devs) Collective](https://discord.gg/3AMBDJb)
+- [Hype O'Clock] (https://discord.gg/EG5STC3r)
