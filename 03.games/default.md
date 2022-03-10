@@ -27,4 +27,3 @@ We will make an attempt with these:
 Scratch work on this [google spreadsheet](https://docs.google.com/spreadsheets/d/1I7c4o3j6JmOSwsa2o1TE3I8bFZoYsXvZvz9Oh1zIgpE/edit#gid=1866587470)
 
 Find us on [Discord](https://discord.gg/tyVV4Wa) if you have ideas or want to join the curating group!
- 
