@@ -20,6 +20,7 @@ If you're just getting into making games, it's like most crafts: start small, ke
 - [Eggplant: The Secret Life of Games](https://podcasts.apple.com/us/podcast/eggplant-the-secret-lives-of-games/id1435365252)
 - [Another Castle](https://podcasts.apple.com/podcast/id331058909)
 - [The Psychology of Video Games Podcast](https://www.psychologyofgames.com/podcast/)
+- [GDC Podcast](https://podcasts.apple.com/us/podcast/gdc-podcast/id1476405424)
 
 ### [Game Jams](https://en.wikipedia.org/wiki/Game_jam)
 Game Jams are a great way to get experience and learn from others, find some here:
