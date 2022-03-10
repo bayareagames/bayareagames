@@ -34,7 +34,7 @@ Game Jams are a great way to get experience and learn from others, find some her
 - [Learn Unity](https://learn.unity.com/)
 - [Your first hour with Unreal](https://www.unrealengine.com/en-US/onlinelearning-courses/your-first-hour-with-unreal-engine)
 - [Unreal online learning videos](https://www.unrealengine.com/en-US/onlinelearning-courses)
-- [Godot engine docs, your first game](https://docs.godotengine.org/en/3.1/getting_started/step_by_step/your_first_game.html)
+- [Godot engine docs, your first 2d game](https://docs.godotengine.org/en/3.4/getting_started/first_2d_game/index.html)
 
 ### CG
 - [Blender Basics](https://cgcookie.com/lesson/welcome-to-the-blender-basics)
