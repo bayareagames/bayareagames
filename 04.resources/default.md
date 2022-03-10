@@ -51,6 +51,10 @@ Game Jams are a great way to get experience and learn from others, find some her
 - [Red Blob Games](https://www.redblobgames.com/) high quality blog about game programming topics
 - [Catlike Coding > Unity](https://catlikecoding.com/unity/tutorials/) C# and Shader Tutorials for the Unity Engine
 
+### Game Industry Analysis
+- [Deconstructor of Fun](https://www.deconstructoroffun.com/blog)
+- [The GameDiscoverCo Newsletter](https://newsletter.gamediscover.co/)
+
 ### Other Resource Collections
 - [38 Great Resources for Game Developers by Jasmine Greene](https://www.gamasutra.com/blogs/JasmineGreene/20170926/306446/38_Great_Resources_for_Game_Developers.php)
 - [21 Free Learning Resources for Game Developers by Nathan Lovato](https://www.gamasutra.com/blogs/NathanLovato/20150814/251219/21_Free_Learning_Resources_for_Game_Developers.php)
