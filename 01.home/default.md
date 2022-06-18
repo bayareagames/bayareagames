@@ -6,6 +6,8 @@ body_classes: title-h1h2
 ## Bay Area Games
 A friendly community developed resource for aspiring game developers and local game enthusiasts in the San Francisco Bay Area.
 
+You can find past recorded events on our [Youtube channel](https://www.youtube.com/channel/UC2V1oQgWIKkxJ-_DzrwwCzw) and live ones on our [twitch channel](https://www.twitch.tv/bayareagames)
+
 ### Local Meetup groups
 * [Indie Game Developers of Silicon Valley](https://www.meetup.com/Indie-Game-Developers-of-Silicon-Valley/)
   * Monthly meetup group for game devs of all skill levels. Events vary, testing nights, mini talks, chatting over tea, etc.
@@ -22,7 +24,7 @@ A friendly community developed resource for aspiring game developers and local g
 * [Silicon Valley Unreal Developers Group](https://www.meetup.com/silicon-valley-unreal-engine-developer-group/)
   * A meetup for game developers (and others) using Unreal Engine. 4 or 5. We're not picky.
 
-  
+
 ### Discord servers
 If you're looking to chat with other devs in the area *right now* you can find some of us on these servers:
 - [Silicon Valley Indie Game Developers](https://discord.gg/tyVV4Wa)
