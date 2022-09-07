@@ -21,8 +21,6 @@ You can find past recorded events on our [Youtube channel](https://www.youtube.c
   * Ever wanted to live a video game experience? Now you can! Enter the Virtual World and play VR games with your friends at Virtual World Arcade!
 * [Sacramento Developer Collective](https://www.meetup.com/gamedeveloper/)
   * The purpose of this collective is simple: To create opportunity for developers & designers, both aspiring & veteran, to connect & empower one another within our up & coming Sacramento game industry!
-* [Silicon Valley Unreal Developers Group](https://www.meetup.com/silicon-valley-unreal-engine-developer-group/)
-  * A meetup for game developers (and others) using Unreal Engine. 4 or 5. We're not picky.
 
 
 ### Discord servers
