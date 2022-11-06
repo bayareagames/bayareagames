@@ -28,6 +28,9 @@ _Find some work or collaborators here in the Bay Area!_
 
 * [Bay Area Indie Game Collaboration Sheet](https://docs.google.com/spreadsheets/d/1kduS2LGClggs9v3NfjI2G7_oVEAhyuat9-zABJx_fp0/edit#gid=0)
   * An informal collaboration spreadsheet for people who just want to work together, pay might not be involved...
+
+* [Places to look for Game Dev jobs and Associated Resources](https://docs.google.com/document/d/1IWPZd3gxh7C56PHX9pDps0b31MKTfXouPYaLElIayTc/edit)
+  * A game dev job resources google doc compiled by Eric Jay Chou GeneralJist of Honor Games, LLC  
   
 * [Kreatorbus.com](https://kreatorbus.com/)
   * Kreatorbus is a platform for finding collaborators for your projects that was created by a member of our very own local game dev community, [Ralph Wong](https://milpitians.com/).
