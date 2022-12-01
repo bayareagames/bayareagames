@@ -18,6 +18,12 @@ _Find some work or collaborators here in the Bay Area!_
 
 * [Grackle HQ](https://gracklehq.com/jobs)
   * Grackle HQ gathers job listings from all over the game industry and organizes them to help you find game development jobs.
+  
+* [gamejobs.work](https://gamejobs.work)
+  * Connecting Talented 2D & 3D Artists to Game Studios 🧡
+  
+* [animatedjobs.com](https://animatedjobs.com/)
+  * animatedjobs.com showcases animation jobs for 2D Animator's, 3D Animators & Storyboard Artists in the USA, the UK and all over the World  
 
 * [#GameDevJobs](https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/preview) google doc
   * Amazing google doc maintained by [@SimplyUndrea](https://twitter.com/simplyundrea) and [@MitchyD](https://twitter.com/MitchyD).
