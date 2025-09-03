@@ -5,6 +5,11 @@ title: Events
 ## Events
 Events have gone virtual! South Bay Game Dev meets the last monday of every month on discord, Oakland Game Devs has been hosting virtual meetups, Virtual World Arcade has been hosting meetups in VR and the Sacramento Developer Collective has been hosting monthly virtual jams.
 
+### In-person events
+* [3D Playtest Night + Speaker Series - Oct 9th 2025](https://partiful.com/e/dl6UTrqBE9jFMmLejmsn)
+  * Join us in San Francisco for an exclusive 3D Playtest Night during SF Tech Week - network with devs + artists + game studios, learn from industry speakers, free food + drinks, and 80–100 folks from the 3D × tech × games scene.
+  * Have a game you want to showcase? [Submit here!](https://forms.gle/gDQePY4DJh5Jj5Qu8)
+
 ### Local Meetup groups with virtual events
 * [Indie Game Developers of Silicon Valley](https://www.meetup.com/Indie-Game-Developers-of-Silicon-Valley/)
   * Monthly meetup group for game devs of all skill levels. Events vary, testing nights, mini talks, chatting over tea, etc.
