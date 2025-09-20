@@ -38,7 +38,6 @@ Game Jams are a great way to get experience and learn from others, find some her
 
 ### CG
 - [Blender Basics](https://cgcookie.com/lesson/welcome-to-the-blender-basics)
-- [Blender Tutorials](https://cgcookie.com/categories/3d/tutorials)
 - [Learning Houdini](https://www.sidefx.com/learn/getting_started/)
 
 ### Game Design
